@@ -6,7 +6,7 @@
 
 CreditPilot AI is an end-to-end AI application designed to help financial institutions assess credit risk, explain model predictions, and support better lending decisions.
 
-Rather than stopping after completing the **Tata GenAI Powered Data Analytics Job Simulation**, this project extends the concepts into a production-style application that demonstrates how machine learning, explainable AI, and modern web technologies can be combined to solve a real business problem.
+Rather than stopping after completing the **Tata GenAI Powered Data Analytics Job Simulation**, this project extends the concepts into a production-style application that demonstrates how machine learning, explainable AI, technologies can be combined to solve a real business problem.
 
 The objective is not only to predict whether a customer is likely to default, but also to provide transparent explanations, interactive analytics, and actionable business insights.
 
