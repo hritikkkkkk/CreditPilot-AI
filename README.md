@@ -99,7 +99,7 @@ The assistant will generate business-friendly explanations using an LLM.
 ---
 
 ## Tech Stack
-
+//////////////////////
 ### Frontend
 
 * Next.js
