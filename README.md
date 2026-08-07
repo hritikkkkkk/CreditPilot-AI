@@ -137,7 +137,7 @@ The assistant will generate business-friendly explanations using an LLM.
 ---
 
 ## Project Status
-
+/////////////////////////////////////////
 🚧 **Currently under development**
 
 This repository documents the complete journey—from architecture and development to deployment. The project will be built incrementally with production-ready engineering practices.
